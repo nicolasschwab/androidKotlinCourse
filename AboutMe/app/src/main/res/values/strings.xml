@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">  Curabitur in porta enim, vel ullamcorper urna. Integer rhoncus tincidunt eros, fringilla consectetur tortor dictum eget.
+        \n\n Donec efficitur elit vel hendrerit congue. Pellentesque iaculis felis vitae sem posuere, sit amet congue arcu feugiat.
+        \n\nMorbi blandit eros a facilisis scelerisque. Donec mauris ligula, dapibus et risus eu, ultricies aliquam urna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse vitae orci neque. Etiam tincidunt nisi sed massa eleifend elementum. Phasellus ac ipsum id lorem mattis venenatis id at lorem.
+
+\n\n Donec gravida justo vel maximus facilisis. Nunc tincidunt, mauris sit amet tristique tincidunt, dui felis cursus elit, non hendrerit arcu lacus id dui.
+        \n\n Sed sagittis luctus tellus, vitae porta nibh dignissim id. Vestibulum leo odio, luctus non suscipit at, ultricies porttitor purus. Donec eu finibus urna. Phasellus nibh nisl, interdum vel vulputate eu, pharetra vitae nulla. Duis finibus varius mauris, rutrum aliquam nisi ullamcorper a. Etiam aliquam libero nunc, id pellentesque quam pellentesque a. In commodo nulla ut mi vestibulum, sit amet congue ligula pharetra. Cras non arcu ex. Fusce vitae laoreet urna.
+
+\n\nAenean erat mauris, vestibulum quis euismod vel, commodo a ex. In ante odio, congue non nunc at, facilisis ultricies elit.
+        \n\nSed dapibus tincidunt imperdiet. Morbi pulvinar quis sem et tristique. Quisque euismod quam eget arcu facilisis sodales. Mauris a lacus sit amet nunc commodo cursus ac at dolor.
+        \n\n Nulla sed mollis risus. In congue ante a nisi ultricies dignissim. Duis efficitur auctor maximus. </string>
+    <string name="nickname_question">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
